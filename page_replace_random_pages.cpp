@@ -1,5 +1,5 @@
-// COMPILATION: gcc gorjianm_exam1.cpp -o gorjianm_exam1.exe -lstdc++
-//         RUN: ./gorjianm_exam1.exe
+// COMPILATION: gcc page_replace_random_pages.cpp -o page_replace_random_pages -lstdc++
+//         RUN: ./page_replace_random_pages
 #include <iostream>
 #include <fstream>
 #include <cstdlib>
