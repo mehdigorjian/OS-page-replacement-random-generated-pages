@@ -295,11 +295,3 @@ int main()
 	cout << "[INFO] The results were added to: " << file_name1 << endl;
 	return 0;
 }
-
-// REFERENCES
-// I got the idea from the references [1] and [2] but the code was rewroten by 
-// myself and also adding the output printing.
-
-// [1] https://github.com/Ghamry0x2/Page-Replacement-Algorithms/blob/master/src/
-//     PageReplacementAlgorithms/PageReplacementAlgorithms.java
-// [2] https://www.geeksforgeeks.org/second-chance-or-clock-page-replacement-policy/
